@@ -7,3 +7,6 @@
 <li>fixer.io API - EUR-RON Exchange Rate</li>
 <li>CallMeBot API - Sending Messages to Myself</li>
 <li>Tkinter - Very basic GUI</li>
+
+<img src="https://i.imgur.com/0xflmP2.png">
+<img src="https://i.imgur.com/pEzimym.png">
