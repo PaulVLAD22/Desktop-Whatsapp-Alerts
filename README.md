@@ -9,4 +9,5 @@
 <li>Tkinter - Very basic GUI</li>
 
 <img src="https://i.imgur.com/0xflmP2.png">
+<h4>(After I pressed all buttons</h4>
 <img src="https://i.imgur.com/pEzimym.png">
