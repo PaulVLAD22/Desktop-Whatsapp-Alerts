@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.py
+credentials.json
+__pycache__
+token.pickle
