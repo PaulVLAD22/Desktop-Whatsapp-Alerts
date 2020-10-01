@@ -11,3 +11,4 @@
 <img src="https://i.imgur.com/0xflmP2.png">
 <h4>After I pressed all buttons I received this message.</h4>
 <img src="https://i.imgur.com/pEzimym.png">
+<img src="https://i.imgur.com/nVDUrdm.png">
