@@ -135,15 +135,15 @@ def main():
     #3 buttons
     #weather
     sendWeatherButton = Button(root, text="Send Weather", font=('Arial', 13, 'bold'), padx=100, pady=20,
-                              command=sendWeatherInfo, background='lightblue')
+                              command=sendWeatherInfo, background='white')
     sendWeatherButton.pack(pady=20)
     #emails
     sendEmailInfoButton=  Button(root,text="Send Email Info",font=('Arial', 13, 'bold'), padx=100, pady=20,
-                              command=emailInfo, background='lightblue')
+                              command=emailInfo, background='white')
     sendEmailInfoButton.pack(pady=20)
     #EUR - RON
     sendExchangeRateButton = Button(root,text="Send Email Info",font=('Arial', 13, 'bold'), padx=100, pady=20,
-                              command=sendExchangeInfo, background='lightblue')
+                              command=sendExchangeInfo, background='white')
     sendExchangeRateButton.pack(pady=20)
 
     root.mainloop()
